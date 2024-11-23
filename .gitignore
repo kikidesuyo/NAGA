@@ -1,5 +1,5 @@
 # 仮想環境
-venv/
+naga_venv/
 
 # Pythonキャッシュファイル
 __pycache__/
